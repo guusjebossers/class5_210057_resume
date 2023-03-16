@@ -5,6 +5,11 @@
 
 /* Styles for the body */
 
+h1 {
+  color: darkolivegreen;
+  margin-left: 20px;
+}
+
 body {
 	font-family: Lato, "Roboto Slab"; 
 	color: #202030;
@@ -52,7 +57,4 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 	
-
-
-
-
+}
